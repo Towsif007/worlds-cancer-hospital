@@ -7,7 +7,7 @@ const Servicecares = () => {
     useEffect(() => {
         fetch('services.json')
             .then(res => res.json())
-            .then(data => setServicecares(data));
+            .then(data => setServicecares(data.doctors));
     }, [])
 
 

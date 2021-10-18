@@ -1,4 +1,5 @@
-[
+{
+"doctors": [
     {
       "id": 1,
       "name": "1st stage cancer patient care",
@@ -36,3 +37,4 @@
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQks8ayN0xtMnWFTF3DH-HnJi03AeJTvY9XAg&usqp=CAU"
     }
   ]
+}
