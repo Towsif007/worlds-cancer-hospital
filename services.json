@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "1st stage cancer patient care",
+      "description": "In this specific service we take care only 1st stage cancer patient.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBcyC0IYWU6uH8XPrdFURth-si4m1ja5iAw&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "name": "2nd stage cancer patient care",
+      "description": "In this specific service we take care only 2nd stage cancer patient whose needs cemotheraphy.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3GS7FSbZKf4zbRbp7fbo-Ap6j-ULlg-MY_g&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "3rd stage cancer patient care",
+      "description": "In this specific service we take care only 3rd stage cancer patient whose need extra care.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW7YdPvaKM3iavf9ocfJh45JWUf7sdQgSBdg&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "4th stage cancer patient care",
+      "description": "In this specific service we take care only 4th stage cancer patient whose needs extra care and vital treatment.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmoDiqh2SQL2-f1ngMrkouOrdwJVu17Vgp2g&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "name": "lungs cancer patient care",
+      "description": "In this specific service we take care only lungs cancer patient.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYf_hudaixAxiKnVp3wK2vEjeqYvSLkx3Bvg&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "blood cancer patient care",
+      "description": "In this specific service we take care only blood cancer patient whose needs difficult treatment.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQks8ayN0xtMnWFTF3DH-HnJi03AeJTvY9XAg&usqp=CAU"
+    }
+  ]
