@@ -28,7 +28,7 @@ const useFirebase = () => {
 
     const logOut = () => {
         setIsLoading(true);
-        // console.log('towsif')
+        console.log('towsif')
         signOut(auth)
             .then(() => {
                 setUser({})

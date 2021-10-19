@@ -26,6 +26,7 @@ const Details = () => {
             <h1>This is detail page: {servicecareId}</h1>
             <h1>Service Name :{singleDetail?.name}</h1>
             <img src={singleDetail?.img} alt="" />
+            <p>details: {singleDetail?.description}</p>
         </div>
     );
 };

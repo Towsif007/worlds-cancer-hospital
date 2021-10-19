@@ -2,6 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import useAuth from '../../../Hooks/useAuth';
 
+  // Navber button   
+
 const Header = () => {
   const {user, logOut} = useAuth();
     return (
@@ -23,6 +25,7 @@ const Header = () => {
         <li className="nav-item">
           <Link className="nav-link" to="/about">About</Link>
         </li>
+        {/* login and logout */}
         <li className="nav-item">
           {user?.email ?
             <button onClick={logOut} className="btn btn-warning">LogOut 
