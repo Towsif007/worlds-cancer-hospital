@@ -7,9 +7,11 @@ import Home from './components/Home/Home/Home';
 import Login from './components/Login/Login/Login';
 import PrivateRoute from './components/Login/Privateroute/PrivateRoute';
 import Notfound from './components/Notfound/Notfound';
+
 import Footer from './components/Shared/Footer/Footer';
 import Header from './components/Shared/Header/Header';
 import AuthProvider from './Context/AuthProvider';
+import Register from './components/Register/Register';
 
 function App() {
   return (
@@ -35,6 +37,9 @@ function App() {
       </PrivateRoute>
       <Route path="/login">
       <Login></Login>
+      </Route>
+      <Route path="/register">
+      <Register></Register>
       </Route>
       <PrivateRoute path="/details/:servicecareId">
       <Details></Details>
